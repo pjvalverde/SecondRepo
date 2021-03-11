@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 version 1-1
+=======
+version 1-2
+>>>>>>> otra_roma
 version 2
 version 3
 Este archivo de versiones esta en otra rama
